@@ -1,8 +1,5 @@
 package item;
 
-/**
- * Representa um livro digital (sem limite de cópias).
- */
 public class LivroDigital extends Item {
 
     public LivroDigital(String titulo, String autor, String isbn) {
