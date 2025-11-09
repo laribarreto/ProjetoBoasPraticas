@@ -1,8 +1,5 @@
 package item;
 
-/**
- * Representa um livro físico com controle de cópias.
- */
 public class LivroFisico extends Item {
     private int quantidadeDisponivel;
 
